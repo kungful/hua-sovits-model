@@ -5,6 +5,7 @@ gpt-sovits本体：https://github.com/RVC-Boss/GPT-SoVITS.git
 我的模型（麦克阿瑟将军）：https://github.com/kungful/hua-sovits-model/releases/tag/v1.0.0
 
 UVR5终极人声分离（天花板级别伴奏分离软件）: https://ultimatevocalremover.com/
+                           UVR5图文教程：https://blog.csdn.net/2301_79607161/article/details/135057915
 
 其它推荐：
 
