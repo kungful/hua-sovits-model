@@ -1,0 +1,17 @@
+dub_genius是基于GPT-SoVITS的视频剪辑快捷配音工具：https://github.com/2DIPW/dub_genius.git
+
+gpt-sovits本体：https://github.com/RVC-Boss/GPT-SoVITS.git
+
+我的模型（麦克阿瑟将军）：https://github.com/kungful/hua-sovits-model.git
+
+UVR5终极人声分离（天花板级别伴奏分离软件）: https://ultimatevocalremover.com/
+
+其它推荐：
+
+实时输入翻译：https://github.com/sxzxs/Real-time-translation-typing.git
+
+
+第三方的GPT-sovits模型推荐：https://www.123pan.com/s/UHp9-kqi8H.html
+
+
+RVC歌声翻唱/实时变声：https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.git
