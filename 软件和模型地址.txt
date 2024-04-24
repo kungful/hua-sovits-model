@@ -2,7 +2,7 @@ dub_genius是基于GPT-SoVITS的视频剪辑快捷配音工具：https://github.
 
 gpt-sovits本体：https://github.com/RVC-Boss/GPT-SoVITS.git
 
-我的模型（麦克阿瑟将军）：https://github.com/kungful/hua-sovits-model.git
+我的模型（麦克阿瑟将军）：https://github.com/kungful/hua-sovits-model/releases/tag/v1.0.0
 
 UVR5终极人声分离（天花板级别伴奏分离软件）: https://ultimatevocalremover.com/
 
