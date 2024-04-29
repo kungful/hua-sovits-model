@@ -16,3 +16,4 @@ UVR5终极人声分离（天花板级别伴奏分离软件）: https://ultimatev
 
 
 RVC歌声翻唱/实时变声：https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.git
+SVC歌声翻唱：https://github.com/svc-develop-team/so-vits-svc.git
